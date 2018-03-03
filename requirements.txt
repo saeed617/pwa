@@ -1,0 +1,4 @@
+Django==1.11.2
+django-progressive-web-app==0.1.1
+django-widget-tweaks==1.4.1
+pytz==2018.3
